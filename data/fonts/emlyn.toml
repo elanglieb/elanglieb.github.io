@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Emlyn"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Raleway:300,700|Roboto+Mono"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Roboto Mono"
