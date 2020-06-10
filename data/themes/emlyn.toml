@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Emlyn"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#DAC6B5"
+
+# Menu
+menu_primary = "#F1D6B8"
+menu_text = "#181311"
+menu_text_active = "#54423B"
+menu_title = "#F7A072"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
